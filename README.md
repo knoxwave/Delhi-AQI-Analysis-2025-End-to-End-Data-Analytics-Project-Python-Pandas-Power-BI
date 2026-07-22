@@ -23,7 +23,9 @@ https://app.powerbi.com/links/Z1DEK92PMc?ctid=842c10ef-94b8-48c5-8bb6-574d38e445
 
 ## 📊 Dashboard Preview
 
-> *(Add screenshots here)*
+> <p align="center">
+  <img src="images/dashboar.png" alt="Delhi AQI Dashboard" width="100%">
+</p>
 
 ```
 images/dashboard.png
@@ -143,8 +145,10 @@ Includes:
 ---
 
 # 📷 Dashboard
-
-*(Insert your dashboard screenshots here.)*
+```
+><p align="center">
+  <img src="images/dash 2.png" alt="Delhi AQI Dashboard" width="100%">
+</p>
 
 ---
 
